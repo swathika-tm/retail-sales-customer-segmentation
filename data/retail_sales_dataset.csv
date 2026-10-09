@@ -1,0 +1,76 @@
+TransactionID,CustomerID,CustomerName,OrderDate,Category,ProductName,Quantity,UnitPrice,TotalSales
+T1001,C001,John Smith,2023-08-10,Electronics,Wireless Mouse,2,25.00,50.00
+T1002,C002,Sarah Davis,2023-08-15,Apparel,Running Shoes,1,80.00,80.00
+T1003,C001,John Smith,2023-09-02,Electronics,Mechanical Keyboard,1,120.00,120.00
+T1004,C003,Robert Chen,2023-09-12,Apparel,Cotton Hoodie,2,45.00,90.00
+T1005,C004,Emily Brown,2023-10-01,Home Goods,Blender,1,60.00,60.00
+T1006,C002,Sarah Davis,2023-10-18,Apparel,Yoga Pants,2,35.00,70.00
+T1007,C005,Michael Wilson,2023-11-05,Electronics,Noise-Canceling Headphones,1,200.00,200.00
+T1008,C001,John Smith,2023-11-20,Electronics,USB-C Hub,3,30.00,90.00
+T1009,C006,Jessica Taylor,2023-12-01,Home Goods,Coffee Maker,1,85.00,85.00
+T1010,C003,Robert Chen,2023-12-10,Apparel,Denim Jacket,1,65.00,65.00
+T1011,C004,Emily Brown,2024-01-05,Home Goods,Air Fryer,1,110.00,110.00
+T1012,C002,Sarah Davis,2024-01-15,Apparel,Running Shoes,2,80.00,160.00
+T1013,C007,David Martinez,2024-02-01,Electronics,Smartwatch,1,150.00,150.00
+T1014,C005,Michael Wilson,2024-02-14,Electronics,Wireless Mouse,4,25.00,100.00
+T1015,C001,John Smith,2024-03-01,Electronics,Mechanical Keyboard,2,120.00,240.00
+T1016,C008,Amanda White,2024-03-15,Home Goods,Ceramic Dinner Set,1,75.00,75.00
+T1017,C006,Jessica Taylor,2024-04-02,Home Goods,Blender,2,60.00,120.00
+T1018,C003,Robert Chen,2024-04-20,Apparel,Graphic Tee,3,20.00,60.00
+T1019,C009,James Anderson,2024-05-05,Electronics,Bluetooth Speaker,1,95.00,95.00
+T1020,C002,Sarah Davis,2024-05-18,Apparel,Yoga Pants,2,35.00,70.00
+T1021,C004,Emily Brown,2024-06-01,Home Goods,Coffee Maker,2,85.00,170.00
+T1022,C007,David Martinez,2024-06-15,Electronics,Wireless Mouse,3,25.00,75.00
+T1023,C010,Laura Thomas,2024-07-02,Apparel,Winter Coat,1,140.00,140.00
+T1024,C001,John Smith,2024-07-20,Electronics,Smartwatch,1,150.00,150.00
+T1025,C005,Michael Wilson,2024-08-05,Electronics,USB-C Hub,4,30.00,120.00
+T1026,C008,Amanda White,2024-08-22,Home Goods,Air Fryer,1,110.00,110.00
+T1027,C006,Jessica Taylor,2024-09-01,Home Goods,Ceramic Dinner Set,2,75.00,150.00
+T1028,C003,Robert Chen,2024-09-15,Apparel,Running Shoes,1,80.00,80.00
+T1029,C009,James Anderson,2024-10-02,Electronics,Noise-Canceling Headphones,1,200.00,200.00
+T1030,C010,Laura Thomas,2024-10-20,Apparel,Cotton Hoodie,2,45.00,90.00
+T1031,C002,Sarah Davis,2024-11-05,Apparel,Denim Jacket,1,65.00,65.00
+T1032,C004,Emily Brown,2024-11-18,Home Goods,Blender,2,60.00,120.00
+T1033,C007,David Martinez,2024-12-01,Electronics,Mechanical Keyboard,1,120.00,120.00
+T1034,C005,Michael Wilson,2024-12-15,Electronics,Bluetooth Speaker,2,95.00,190.00
+T1035,C001,John Smith,2025-01-05,Electronics,Wireless Mouse,2,25.00,50.00
+T1036,C006,Jessica Taylor,2025-01-20,Home Goods,Coffee Maker,1,85.00,85.00
+T1037,C008,Amanda White,2025-02-02,Home Goods,Air Fryer,2,110.00,220.00
+T1038,C003,Robert Chen,2025-02-14,Apparel,Yoga Pants,3,35.00,105.00
+T1039,C010,Laura Thomas,2025-03-01,Apparel,Winter Coat,1,140.00,140.00
+T1040,C009,James Anderson,2025-03-15,Electronics,Smartwatch,2,150.00,300.00
+T1041,C002,Sarah Davis,2025-04-02,Apparel,Running Shoes,1,80.00,80.00
+T1042,C004,Emily Brown,2025-04-18,Home Goods,Ceramic Dinner Set,1,75.00,75.00
+T1043,C007,David Martinez,2025-05-01,Electronics,Noise-Canceling Headphones,1,200.00,200.00
+T1044,C005,Michael Wilson,2025-05-12,Electronics,Mechanical Keyboard,2,120.00,240.00
+T1045,C001,John Smith,2025-06-01,Electronics,USB-C Hub,3,30.00,90.00
+T1046,C006,Jessica Taylor,2025-06-15,Home Goods,Blender,1,60.00,60.00
+T1047,C008,Amanda White,2025-07-01,Home Goods,Coffee Maker,1,85.00,85.00
+T1048,C003,Robert Chen,2025-07-14,Apparel,Graphic Tee,4,20.00,80.00
+T1049,C009,James Anderson,2025-08-01,Electronics,Bluetooth Speaker,1,95.00,95.00
+T1050,C010,Laura Thomas,2025-08-15,Apparel,Denim Jacket,1,65.00,65.00
+T1051,C011,Kevin Harris,2023-08-20,Electronics,Wireless Mouse,1,25.00,25.00
+T1052,C012,Rachel Green,2023-09-05,Apparel,Yoga Pants,2,35.00,70.00
+T1053,C011,Kevin Harris,2023-10-10,Electronics,Mechanical Keyboard,1,120.00,120.00
+T1054,C013,Brian Clark,2023-11-12,Home Goods,Air Fryer,1,110.00,110.00
+T1055,C012,Rachel Green,2023-12-05,Apparel,Cotton Hoodie,1,45.00,45.00
+T1056,C014,Megan Lewis,2024-01-10,Electronics,Smartwatch,1,150.00,150.00
+T1057,C011,Kevin Harris,2024-02-15,Electronics,USB-C Hub,2,30.00,60.00
+T1058,C013,Brian Clark,2024-03-20,Home Goods,Blender,1,60.00,60.00
+T1059,C015,Steven King,2024-04-10,Apparel,Running Shoes,1,80.00,80.00
+T1060,C012,Rachel Green,2024-05-12,Apparel,Winter Coat,1,140.00,140.00
+T1061,C014,Megan Lewis,2024-06-05,Electronics,Noise-Canceling Headphones,1,200.00,200.00
+T1062,C011,Kevin Harris,2024-07-15,Electronics,Bluetooth Speaker,1,95.00,95.00
+T1063,C013,Brian Clark,2024-08-10,Home Goods,Coffee Maker,1,85.00,85.00
+T1064,C015,Steven King,2024-09-05,Apparel,Denim Jacket,1,65.00,65.00
+T1065,C012,Rachel Green,2024-10-12,Apparel,Graphic Tee,3,20.00,60.00
+T1066,C014,Megan Lewis,2024-11-05,Electronics,Wireless Mouse,2,25.00,50.00
+T1067,C011,Kevin Harris,2024-12-01,Electronics,Mechanical Keyboard,1,120.00,120.00
+T1068,C013,Brian Clark,2025-01-15,Home Goods,Ceramic Dinner Set,1,75.00,75.00
+T1069,C015,Steven King,2025-02-10,Apparel,Yoga Pants,1,35.00,35.00
+T1070,C012,Rachel Green,2025-03-05,Apparel,Running Shoes,1,80.00,80.00
+T1071,C014,Megan Lewis,2025-04-12,Electronics,Smartwatch,1,150.00,150.00
+T1072,C011,Kevin Harris,2025-05-02,Electronics,USB-C Hub,1,30.00,30.00
+T1073,C013,Brian Clark,2025-06-10,Home Goods,Air Fryer,1,110.00,110.00
+T1074,C015,Steven King,2025-07-05,Apparel,Cotton Hoodie,1,45.00,45.00
+T1075,C012,Rachel Green,2025-08-01,Apparel,Denim Jacket,1,65.00,65.00
